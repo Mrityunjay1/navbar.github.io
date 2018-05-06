@@ -1,0 +1,19 @@
+.con{
+
+	background-color: black;
+	border: 20px;
+}
+.flex-container {
+  display: flex;
+  background-color:red;
+}
+
+.flex-container > div {
+  background-color: DodgerBlue;
+  color: white;
+  width: 100px;
+  margin: 20px;
+  text-align: center;
+  line-height: 25x;
+  font-size: 30px;
+}
